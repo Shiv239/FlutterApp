@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739973589720",
+    "firebase_url": "https://wcmc-edb94.firebaseio.com",
+    "project_id": "wcmc-edb94",
+    "storage_bucket": "wcmc-edb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739973589720:android:8f203d66c2ab87cb4305ad",
+        "android_client_info": {
+          "package_name": "com.example.wcmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739973589720-0o3c0p5po4ken1p35vkm9i0li8f7bqj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfhdTS_J07mbhKLek4TzG734aaqEqkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739973589720-0o3c0p5po4ken1p35vkm9i0li8f7bqj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
